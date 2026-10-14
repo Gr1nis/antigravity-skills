@@ -4,10 +4,11 @@
 
 ---
 
-## 📦 Состав сборки (5 скиллов)
+## 📦 Состав сборки (6 скиллов)
 
 | Скилл | Назначение | Триггеры активации |
 | :--- | :--- | :--- |
+| **[`game-critics`](./game-critics/SKILL.md)** | Мультиагентная система независимых критиков (Fidelity, Asset/Voxel, Motion, Game Feel, Perf), адаптированная из `ref2game` для Three.js/WebGL/Unity | `критики`, `game-critics`, `аудит референса`, `fidelity critic` |
 | **[`vibe-pro`](./vibe-pro/SKILL.md)** | 5-фазный инженерный пайплайн (Бриф → План → Adversarial TDD Red → Green → GitHub Sync + Сабагенты + `PROJECT_STATE.md`) | `режим про`, `по пайплайну`, `pro mode` |
 | **[`prompt-master`](./prompt-master/SKILL.md)** | Хирургический оптимизатор промптов и ТЗ (`v1.8.0-ru-compact`) с базой профилей для 30+ ИИ-инструментов и синергией с `vibe-pro` | `промпт-мастер`, `улучши промпт`, `напиши промпт`, `prompt-master` |
 | **[`unity-hypercasual-autopilot`](./unity-hypercasual-autopilot/SKILL.md)** | Автопилот разработки игр на Unity C# под **Яндекс Игры (WebGL / YG2)**, **Google Play** и **Steam** | Разработка игр на Unity, Яндекс Игры, гиперказуалки |
